@@ -12,16 +12,13 @@ Python 3.x
 Installation
 
 Clone the repository:
+not sure how to make the repository downloadable and install all the requirements yet,new to github. 
 
-    git clone https://github.com/YOUR_USERNAME/python-port-scanner.git
+    
 
 Navigate to the directory:
 
     cd port_scanner
-
-Install the required packages:
-
-    pip install -r requirements.txt
 
 Usage
 
