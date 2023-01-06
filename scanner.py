@@ -68,7 +68,7 @@ scn_fl.write("the start time was {t1}\n the ending time was {t2}\n total time fo
 print("Scan start time was {}\nScan end time was {}\nScan total time was {}\n".format(t1, t2, t3))
 
 print(t3)
-print("EAT A DICK")
+print("Target has been scanned")
 
 scn_fl.close()
 
