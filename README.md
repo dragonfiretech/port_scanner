@@ -24,6 +24,10 @@ Navigate to the directory:
 The REPO should install in your Home directory so you should be able to cd right into the folder
 
     cd port_scanner
+    
+Type the following command into your CLI
+
+    python3 scanner.py
 
 Usage
 
