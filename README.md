@@ -65,7 +65,7 @@ Target has been scanned
 
 Notes
 
-This scanner is a basic scanner so it will only do 1 host at a time until it is updated.
+This scanner is a basic scanner so it will only do 1 host at a time until it is updated it will throw an error and crash if multiple hosts are input.
 
 Some hosts may block port scanners or rate limit requests, in which case the tool may not be able to complete a scan.
 Port scanning can be considered a malicious activity and is often prohibited by network administrators. Use this tool responsibly and with permission.
