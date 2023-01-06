@@ -35,20 +35,31 @@ To scan a host, run the program in CLI and input the target under Host input:
 output should look like this below
 
 Host input:x.x.x.x
+
 x.x.x.x : x.x.x.x
+
 please wait, scanning remote host - x.x.x.x
 --------------------------------------------------
 2023-01-05 20:46:45.289074
+
 port xx: open
+
 port xx: open
+
 port xxx: open
+
 this is always executed
+
 2023-01-05 20:46:47.419644
+
 Scan start time was 2023-01-05 20:46:45.289074
+
 Scan end time was 2023-01-05 20:46:47.419644
+
 Scan total time was 0:00:02.130570
 
 0:00:02.130570
+
 Target has been scanned
 
 
